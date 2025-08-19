@@ -31,3 +31,10 @@ chrome.runtime.onInstalled.addListener(({ reason }) => {
         chrome.runtime.setUninstallURL('https://www.google.com');
     }
 });
+
+chrome.commands.onCommand.addListener((shortcut) => {
+  if (shortcut === 'reload') {
+    console.log('Reloading the extension...');
+    chrome.runtime.reload();
+  }
+});

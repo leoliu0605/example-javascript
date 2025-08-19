@@ -13,5 +13,14 @@
   "background": {
     "service_worker": "background.js"
   },
-  "devtools_page": "devtools.html"
+  "devtools_page": "devtools.html",
+  "commands": {
+    "reload": {
+      "suggested_key": {
+        "default": "Ctrl+S",
+        "mac": "Command+S"
+      },
+      "description": "Reload the extension"
+    }
+  }
 }
