@@ -31,3 +31,4 @@ Javascript Example Code
 - https://github.com/new-data-services/tailwindcss-animated
 - https://github.com/wavedrom/bitfield
 - https://github.com/xz/new.css
+- https://github.com/Harbour-Enterprises/SuperDoc
