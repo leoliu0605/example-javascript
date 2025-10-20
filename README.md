@@ -32,3 +32,4 @@ Javascript Example Code
 - https://github.com/wavedrom/bitfield
 - https://github.com/xz/new.css
 - https://github.com/Harbour-Enterprises/SuperDoc
+- https://github.com/DHTMLX/gantt
