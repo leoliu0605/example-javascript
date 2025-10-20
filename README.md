@@ -1,4 +1,5 @@
 # javascript
+
 Javascript Example Code
 
 - https://github.com/myliang/x-spreadsheet
@@ -19,3 +20,8 @@ Javascript Example Code
 - https://github.com/haltu/muuri
 - https://github.com/tiagozip/cap
 - https://github.com/zumerlab/snapdom
+- https://github.com/jnsahaj/tweakcn
+- https://github.com/pardnchiu/FlexPlyr
+- https://github.com/cotton123236/zoomist
+- https://github.com/ArtifexSoftware/mupdf.js
+- https://github.com/guilanier/codrops-sdf-lensblur
