@@ -25,3 +25,8 @@ Javascript Example Code
 - https://github.com/cotton123236/zoomist
 - https://github.com/ArtifexSoftware/mupdf.js
 - https://github.com/guilanier/codrops-sdf-lensblur
+- https://github.com/tldraw/tldraw
+- https://github.com/mermaid-js/mermaid
+- https://github.com/excalidraw/excalidraw
+- https://github.com/new-data-services/tailwindcss-animated
+- https://github.com/wavedrom/bitfield
